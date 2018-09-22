@@ -6,6 +6,11 @@ Jason Carr, Dvani Patel, Ari Zerner
 # Problem Statement
 
 We will be examining and attempting to make progress on open problems related to partitions of polygons into pieces which are congruent up to linear transformations, along with generalizations.
+Some potential problems:
+
+Decide whether polynomials have partitions with n > 2 pieces such that no area is uncovered. Determine upper bounds for uncovered area in general.
+
+Determine whether partitions exist when congruence is replaced with other sets of symmetry.
 
 # Sources
 
